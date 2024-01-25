@@ -1,5 +1,5 @@
 {
-  "name": "together-piano-server",
+  "name": "together-piano-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.ts",
